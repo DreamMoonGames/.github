@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Dream Moon Games — papercut logo lockup" width="100%">
+<img src="../assets/banner.png" alt="Dream Moon Games — papercut logo lockup" width="100%">
 
 # Dream Moon Games
 
@@ -58,11 +58,11 @@ The whole identity is built from stacked paper layers, so the mark keeps its dep
 
 <div align="center">
 
-<img src="assets/logo.png" alt="Dream Moon Games logo" width="240">
+<img src="../assets/logo.png" alt="Dream Moon Games logo" width="240">
 &nbsp;&nbsp;&nbsp;
-<img src="assets/avatar.png" alt="Dream Moon Games avatar" width="150">
+<img src="../assets/avatar.png" alt="Dream Moon Games avatar" width="150">
 &nbsp;&nbsp;&nbsp;
-<img src="assets/icon.png" alt="Dream Moon Games icon" width="150">
+<img src="../assets/icon.png" alt="Dream Moon Games icon" width="150">
 
 </div>
 
