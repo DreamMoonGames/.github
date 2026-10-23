@@ -9,7 +9,7 @@
 
 [![Website](https://img.shields.io/badge/64hz.cn-website-313131?style=flat-square&logo=googlechrome&logoColor=white)](https://64hz.cn)
 [![Toolchain](https://img.shields.io/badge/toolchain.64hz.cn-plugins%20%26%20docs-313131?style=flat-square&logo=unrealengine&logoColor=white)](https://toolchain.64hz.cn)
-[![Discord](https://img.shields.io/badge/Discord-join-313131?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/BpC9rH8Rk)
+[![Discord](https://img.shields.io/badge/Discord-join-313131?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/RutF9duYvt)
 
 ![Made with Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine-5-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![Studio status](https://img.shields.io/badge/status-in%20development-313131?style=flat-square)
@@ -92,7 +92,7 @@ The toolchain is documented end-to-end at [toolchain.64hz.cn](https://toolchain.
 
 - **Website** — [64hz.cn](https://64hz.cn)
 - **Toolchain & docs** — [toolchain.64hz.cn](https://toolchain.64hz.cn)
-- **Discord** — [discord.gg/BpC9rH8Rk](https://discord.gg/BpC9rH8Rk)
+- **Discord** — [discord.gg/RutF9duYvt](https://discord.gg/RutF9duYvt)
 - **GitHub** — open an issue in the relevant repository, or reach us at [@TypeDreamMoon](https://github.com/TypeDreamMoon)
 
 ---
