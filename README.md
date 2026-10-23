@@ -7,9 +7,12 @@
 **An independent game studio building dreamlike worlds on Unreal Engine.**
 *纸月为梦，游戏为乡。*
 
+[![Website](https://img.shields.io/badge/64hz.cn-website-313131?style=flat-square&logo=googlechrome&logoColor=white)](https://64hz.cn)
+[![Toolchain](https://img.shields.io/badge/toolchain.64hz.cn-plugins%20%26%20docs-313131?style=flat-square&logo=unrealengine&logoColor=white)](https://toolchain.64hz.cn)
+[![Discord](https://img.shields.io/badge/Discord-join-313131?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/BpC9rH8Rk)
+
 ![Made with Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine-5-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![Studio status](https://img.shields.io/badge/status-in%20development-313131?style=flat-square)
-![Platforms](https://img.shields.io/badge/platforms-PC%20%C2%B7%20Console-313131?style=flat-square)
 
 </div>
 
@@ -33,13 +36,19 @@ interface layer that sits in front of them.
 | **Engine tech** | In-house Unreal Engine plugins for effects, shading and UI. |
 | **Tools** | Internal pipelines and editor tooling that keep a tiny team fast. |
 
-### In-house engine work
+### Hertz Toolchain
 
-- **DreamFX** — effect authoring and runtime systems for stylised, paper-cut visuals.
-- **DreamShader** — our shader library and material layer on top of Unreal's material system.
-- **DreamGUI** — a lightweight UI framework for building game front-ends in engine.
+Our Unreal Engine toolchain is published at **[toolchain.64hz.cn](https://toolchain.64hz.cn)** — twenty-plus
+open-source plugins that turn materials, effects and texture writes into source code:
 
-> These plugins are currently internal; public releases will be announced here first.
+| Plugin | What it does |
+| :--- | :--- |
+| **DreamShader** | Write shaders and materials as source, versionable in git. |
+| **DreamFX** | Effect authoring and runtime systems for stylised, paper-cut visuals. |
+| **DreamTexture** | Texture generation / writes driven from code and graphs. |
+| **DreamGUI** | Lightweight in-engine UI framework for game front-ends. |
+
+[![Open the toolchain](https://img.shields.io/badge/open-toolchain.64hz.cn-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://toolchain.64hz.cn)
 
 ## The mark
 
@@ -62,24 +71,29 @@ The whole identity is built from stacked paper layers, so the mark keeps its dep
 | Project | Type | Status |
 | :--- | :--- | :--- |
 | *Untitled project* | Single-player narrative game (UE5) | In development |
-| DreamFX / DreamShader / DreamGUI | Unreal Engine plugins | Internal |
+| [Hertz Toolchain](https://toolchain.64hz.cn) | Unreal Engine plugin suite | Public |
 | `ring-development-docs` | Studio documentation | Private |
+
+## Sites
+
+| Site | What lives there |
+| :--- | :--- |
+| **[64hz.cn](https://64hz.cn)** | Studio home — games, engine tools, tech art. |
+| **[toolchain.64hz.cn](https://toolchain.64hz.cn)** | Plugin library, docs and install guides for the toolchain. |
+| **[github.com/TypeDreamMoon](https://github.com/TypeDreamMoon)** | Public plugin repositories and sources. |
 
 ## Tech
 
 `Unreal Engine 5` · `C++` · `Blueprints` · `Python` (editor tooling) · `HLSL` · `Perforce` / `Git`
 
+The toolchain is documented end-to-end at [toolchain.64hz.cn](https://toolchain.64hz.cn).
+
 ## Get in touch
 
-- **GitHub** — you are here. Open an issue in the relevant repository.
-- **Business / press** — *(contact details coming soon)*
-
-<!--
-  TODO before publishing:
-  - replace the "contact details coming soon" line with a real address
-    (e.g. hello@dreammoongames.com) or a Discord / X / Bilibili link
-  - update the Projects table once the first title is announced
--->
+- **Website** — [64hz.cn](https://64hz.cn)
+- **Toolchain & docs** — [toolchain.64hz.cn](https://toolchain.64hz.cn)
+- **Discord** — [discord.gg/BpC9rH8Rk](https://discord.gg/BpC9rH8Rk)
+- **GitHub** — open an issue in the relevant repository, or reach us at [@TypeDreamMoon](https://github.com/TypeDreamMoon)
 
 ---
 
